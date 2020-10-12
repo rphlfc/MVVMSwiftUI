@@ -1,4 +1,4 @@
-# Badge de Notificação
+# MVVM com SwiftUI
 Exemplo do padrão MVVM com SwiftUI. 
 
 ## Requisitos
